@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title:my first git repo (on the main branch)
-=======
-title:my first git repo (conflict test branch)
->>>>>>> conflict_test
 author: Cliff Wu
 output:github_document
 ---
