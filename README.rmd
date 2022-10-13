@@ -1,5 +1,5 @@
 ---
-title:my first git repo
+title:my first git repo (conflict test branch)
 author: Cliff Wu
 output:github_document
 ---
