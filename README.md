@@ -1,0 +1,13 @@
+my first git repo (on the main branch)
+================
+Cliff Wu
+
+# My first commit
+
+# I am your daddy
+
+# This is the main branch
+
+I am adding a newline to the first commit section of the README.rmd
+
+# I love to play soccer and Tom Brady is a perk
