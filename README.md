@@ -15,3 +15,5 @@ I am adding a newline to the first commit section of the README.rmd
 add another commit
 
 KD is the softest player on the planet Earth.
+
+**Kyrie is insane**
